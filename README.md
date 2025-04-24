@@ -2,6 +2,8 @@
 
 🎓 **Java Backend Developer** | Oracle Certified | Spring Boot | PostgreSQL | REST API Builder
 
+![Oracle Certified Badge](https://img.shields.io/badge/Oracle%20Certified-Java%20Foundations%20(1Z0--811)-red)
+
 🚀 I recently completed a full backend + frontend project called **Anycomp Marketplace**. It features:
 
 - Java 17 + Spring Boot (Backend)

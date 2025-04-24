@@ -1,26 +1,42 @@
-# Hi there 👋 I'm Mohammad Fadhil
+# 👋 Hi there, I'm Mohammad Fadhil Bin Rosman
 
-🎓 Java Developer | Backend & Game Dev Enthusiast  
-📜 Oracle Certified (1Z0-811)  
-🔧 Love building clean REST APIs & scalable backend systems  
-🌱 Currently learning Spring Boot, PostgreSQL & Cloud Deployment  
-🧪 Recent project: [Anycomp Marketplace Backend](https://github.com/Mohafadhil99/anycomp-marketplace)
+🎓 **Java Backend Developer** | Oracle Certified | Spring Boot | PostgreSQL | REST API Builder
 
-## 🛠️ Technologies & Tools
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3.4.4-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17.x-blue)
-![Maven](https://img.shields.io/badge/Maven-Tool-orange)
-![Git](https://img.shields.io/badge/Git-VersionControl-red)
-![Postman](https://img.shields.io/badge/Postman-API_Testing-yellow)
+🚀 I recently completed a full backend + frontend project called **Anycomp Marketplace**. It features:
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohafadhil99&show_icons=true&theme=radical)
-
-## 🔗 Connect with me
-- GitHub: [@Mohafadhil99](https://github.com/Mohafadhil99)
-- LinkedIn: www.linkedin.com/in/fadhil-rosman
-
-
+- Java 17 + Spring Boot (Backend)
+- PostgreSQL with Spring Data JPA
+- Swagger API documentation
+- Postman testing + DTO-based validation
+- React frontend with Buyer, Seller, Purchase & Items pages
+- GitHub repo + full project walkthrough available
 
 ---
+
+## 📌 Featured Projects
+
+### 🧩 Anycomp Marketplace (Full Stack)
+Backend: [anycomp-marketplace](https://github.com/Mohafadhil99/anycomp-marketplace)  
+Frontend: [anycomp-frontend](https://github.com/Mohafadhil99/anycomp-frontend)
+
+📄 Built for backend assessment with CRUD, validation, pagination, and live React UI.
+
+---
+
+## 🛠️ Tech Stack
+**Languages & Frameworks:** Java 17, Spring Boot, JPA, Hibernate, PostgreSQL, React, HTML/CSS  
+**Tools:** Postman, Swagger, Git, GitHub, Maven, VS Code, IntelliJ
+
+---
+
+## 📫 Let's Connect
+- GitHub: [@Mohafadhil99](https://github.com/Mohafadhil99)
+- LinkedIn: [linkedin.com/in/your-link](#)
+- Open to work, especially backend-focused developer roles
+
+---
+
+📍 Based in Penang, Malaysia — available for remote or relocation opportunities.
+
+Thanks for visiting!
+

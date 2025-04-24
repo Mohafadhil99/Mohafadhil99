@@ -33,7 +33,8 @@ Frontend: [anycomp-frontend](https://github.com/Mohafadhil99/anycomp-frontend)
 
 ## 📫 Let's Connect
 - GitHub: [@Mohafadhil99](https://github.com/Mohafadhil99)
-- LinkedIn: [linkedin.com/in/your-link](#)
+- LinkedIn: www.linkedin.com/in/fadhil-rosman
+
 - Open to work, especially backend-focused developer roles
 
 ---

@@ -2,7 +2,7 @@
 ### Backend & Automation Engineer | AI Systems & Cloud Pipelines @ BFM Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fadhil-rosman)
-[![Resume](https://img.shields.io/badge/📄_View_Resume-PDF-orange?style=for-the-badge)](./RESUME_MOHAMMAD_FADHIL_ROSMAN.pdf)
+[![Resume](https://img.shields.io/badge/📄_View_Resume-PDF-orange?style=for-the-badge)](./RESUME_MOHAMMAD_FADHIL_.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadfadhilrosman@gmail.com)
 
 [![Oracle Certified](https://img.shields.io/badge/Oracle_Certified-Java_Foundations-red?style=flat-square&logo=oracle)](https://linkedin.com/in/fadhil-rosman)
